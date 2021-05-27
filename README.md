@@ -3,7 +3,6 @@ I'm a IT student at a technical school in brazil. I'm on my second year, learnin
 Unfortunatelly, I do not have an project yet, however I'm working on one. Probably posting it soon. :)
 
 @fascv_2004 - Instagram/ @Vascoツ#5601 - Discord
-16y
 
 "It is never late to learn more! "
 
