@@ -6,5 +6,5 @@ Unfortunatelly, I do not have an project yet, however I'm working on one. Probab
 - F_Vasconcellos - Twitter (mainly in portuguese, sometimes in english xD)
 
 
-"It is never late to learn more! "
+"It is never late to learn more!"
 
