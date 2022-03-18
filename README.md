@@ -22,5 +22,4 @@ Unfortunatelly, I do not have an project yet, however I'm working on one. Probab
   <img align="center" alt="Vasconcellos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vasconcellos-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" alt="Vasconcellos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Vasconcellos-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/Vbf1Bqo.png">
 </div>
