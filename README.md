@@ -1,5 +1,5 @@
 
-I'm a IT student at a technical school in brazil. I'm on my second year, learning C#, C/C++ and CSS. Beside those languages, I have study MySql and Html. 
+I'm a IT student at a technical school in brazil. I'm on my third year, learning C#, C/C++. Beside those languages, I have study MySql and Html. 
 Unfortunatelly, I do not have an project yet, however I'm working on one. Probably posting it soon. :)
 
 - @Vascoツ#5601 - Discord
