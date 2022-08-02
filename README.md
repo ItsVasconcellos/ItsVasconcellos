@@ -11,6 +11,5 @@ Unfortunatelly, I do not have an project yet, however I'm working on one. Probab
 <div align="center">
   <a href="https://github.com/ItsVasconcellos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsVasconcellos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsVasconcellos&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true""/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsVasconcellos&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true""/>
 </div>
-  
